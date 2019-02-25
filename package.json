@@ -1,0 +1,17 @@
+{
+  "name": "cron-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Semmi Verian <semmivp1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "kue": "0.11.6",
+    "node-cron": "2.0.3"
+  }
+}
